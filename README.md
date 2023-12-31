@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @saptangshulaha15
+- 👋 Hi, I’m Saptangshu Laha (student at SRM University)
 - 👀 I’m interested in data science, AI and machine learning, cloud computing
 - 🌱 I’m currently pursuing my B.Tech degree on Electronics and Communication Engineering with specialization in Data Science 
 - 📫 You can reach me through my email - saptangshulaha123@gmail.com
